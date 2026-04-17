@@ -1,0 +1,5 @@
+[
+    { "barcode": "123456789012", "brand": "BrandA" },
+    { "barcode": "987654321098", "brand": "BrandB" },
+    { "barcode": "123123123123", "brand": "BrandC" }
+]
